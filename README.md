@@ -9,7 +9,8 @@ It is a user-friendly and helpful website. It is important for the project to ha
 •	Objective: To develop a website that will help residents find
 the necessary medicines, medical devices, find out the latest country news and the ability to add new useful information.
 
- Project Use-Case diagram and questions over the data
+ 
+Project Use-Case diagram and questions over the data
 
 General questions:
 1)What are your goals and objectives?
