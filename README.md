@@ -43,44 +43,44 @@ The project is not only about medicines?
 
  url link to the dataset: https://www.fda.gov/drugs/drug-approvals-and-databases/orange-book-data-files
  
- ingredient
+ ingredient -
 The active ingredient(s) for the product. Multiple ingredients are in alphabetical order, separated by a semicolon.
 
-df_route
+df_route -
 The product dosage form and route separated by a semi-colon. The format is not all uppercase.
 
-trade_name
+trade_name -
 The trade name of the product as shown on the labeling.
 
-applicant
+applicant -
 The firm name holding legal responsibility for the new drug application. The firm name is condensed to a maximum twenty character unique string.
 
-Strength
+Strength -
 The potency of the active ingredient. May repeat for multiple part products.
 
-appl_type
+appl_type -
 The type of new drug application approval. New Drug Applications (NDA or innovator) are ”N”. Abbreviated New Drug Applications (ANDA or generic) are “A”.
 
-appl_no
+appl_no -
 The FDA assigned number to the application. Format is nnnnnn.
 
-product_no
+product_no -
 The FDA assigned number to identify the application products. Each strength is a separate product. May repeat for multiple part products. Format is nnn.
 
-te_code
+te_code -
 The TE Code indicates the therapeutic equivalence rating of generic to innovator Rx products.
 
-approval_date
+approval_date -
 The date the product was approved as stated in the FDA approval letter to the applicant. The format is Mmm dd, yyyy. Products approved prior to the January 1, 1982 contain the phrase: "Approved prior to Jan 1, 1982".
 
-rld
+rld -
 The RLD is a drug product approved under section 505(c) of the FD&C Act for which FDA has made a finding of safety and effectiveness. In the electronic Orange Book, an RLD is identified by “RLD” in the RLD column.
 
-rs
+rs -
 A “reference standard” is the drug product selected by FDA that an applicant seeking approval of an ANDA must use in conducting an in vivo bioequivalence study required for approval of an ANDA. A reference standard is identified by “RS”.
 
-type
+type - 
 The group or category of approved drugs. Format is RX, OTC, DISCN.
 
-applicant_full_name
+applicant_full_name - 
 The full name of the firm holding legal responsibility for the new drug application.
