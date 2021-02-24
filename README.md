@@ -21,13 +21,13 @@ General questions:
 9)What risks need to be managed?
 10)Do you need special systems or equipment?
 • 7 questions like queries 
-1)Find the brand name of the product in the dosage form, and the route that lists the new drugs (NDA or innovator) is "N".
-2)Find the minimum number assigned by the FDA to the application from CAPSULE. Type the trade name.
-3)Find the type of approval for a new drug application INJECTABLE CAPSULES. Print the trade name and therapeutic equivalence rating.
-4)Find the Approval Type of the New Medication Application CAPSULES from SOLUTION. Print the trade name and therapeutic equivalence rating.
-5)Find the brand name of a solution capsule that has an application number less than 65,000 according to the FDA assigned number.
-6)Find the capsule applicant from the solution that the FDA has assigned a claim number less than 40400.
-7)Find the middle number assigned by the FDA to the application for all capsules in the TEVA applicant.
+12)Find the brand name of the product in the dosage form, and the route that lists the new drugs (NDA or innovator) is "N".
+13)Find the minimum number assigned by the FDA to the application from CAPSULE. Type the trade name.
+14)Find the type of approval for a new drug application INJECTABLE CAPSULES. Print the trade name and therapeutic equivalence rating.
+15)Find the Approval Type of the New Medication Application CAPSULES from SOLUTION. Print the trade name and therapeutic equivalence rating.
+16)Find the brand name of a solution capsule that has an application number less than 65,000 according to the FDA assigned number.
+17)Find the capsule applicant from the solution that the FDA has assigned a claim number less than 40400.
+18)Find the middle number assigned by the FDA to the application for all capsules in the TEVA applicant.
 
 • List the functionalities and features of the project (as the number of the questions in English) that will answer the
 questions by interacting with the data in the project database.
