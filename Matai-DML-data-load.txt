@@ -1,0 +1,8 @@
+ we just did from terminal 
+
+.mode csv 
+.import medicine.csv medicine;
+.import types_of_medicine.csv types_of_medicine;
+.import shoppingBasket_madicine.csv shoppingBasket_madicine;
+.import shoppingBasket.csv shoppingBasket;
+.import customer.csv customer;
