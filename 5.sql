@@ -1,0 +1,1 @@
+select df_route, appl_no from medicine where appl_no < 65000;

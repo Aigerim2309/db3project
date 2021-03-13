@@ -1,0 +1,1 @@
+select appl_type from medicine where df_route = 'Injectable Capsule';

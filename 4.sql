@@ -1,0 +1,1 @@
+select appl_type, trade_name, te_code from medicine where df_route = 'Solution';

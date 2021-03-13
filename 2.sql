@@ -1,0 +1,1 @@
+select min(appl_no), trade_name from medicine where df_route = 'Capsule';

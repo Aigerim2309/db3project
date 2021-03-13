@@ -1,0 +1,1 @@
+select avg(appl_no) from medicine where df_route = 'Capsule' and applicant = 'Teva';
